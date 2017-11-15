@@ -1,0 +1,5 @@
+class clase1{
+public static void (String [] ags){
+System.out.println("hello world");
+}
+}
